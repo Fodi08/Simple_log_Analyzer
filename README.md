@@ -36,7 +36,4 @@ python main.py
 * File I/O с потоковым чтением
 
 Автор: Fodi
-* Regular Expressions (re module)
-* Streaming File I/O
 
-Author: Fodi
